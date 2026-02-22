@@ -11,14 +11,15 @@ Web Developer | Full Stack Developer | Cybersecurity Enthusiast
 </p>
 
 
-### About Me: 
+### 👨‍💻 About Me: 
+
 
 I am a Full Stack Web Developer driven by curiosity and a strong desire to continuously grow as an engineer. I am passionate about learning new technologies and applying them to build meaningful, scalable solutions.
 
 Currently, I am strengthening my backend expertise with Node.js to build modern, high-performance web applications. Alongside development, I am consistently improving my problem-solving skills and deepening my understanding of core computer science fundamentals.
 
 
-### Current Focus:
+### 🌱 Current Focus:
 
 - Deepening knowledge in MERN stack development  
 - Strengthening Data Structures and Algorithms  
