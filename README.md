@@ -18,7 +18,6 @@ I am a Full Stack Web Developer driven by curiosity and a strong desire to conti
 
 Currently, I am strengthening my backend expertise with Node.js to build modern, high-performance web applications. Alongside development, I am consistently improving my problem-solving skills and deepening my understanding of core computer science fundamentals.
 
----
 
 ## 🌱 Current Focus:
 
@@ -27,7 +26,7 @@ Currently, I am strengthening my backend expertise with Node.js to build modern,
 - Exploring cybersecurity fundamentals  
 - Building practical, real-world projects  
 
----
+
 
 ## 🌐 Connect:
 
@@ -43,7 +42,7 @@ Currently, I am strengthening my backend expertise with Node.js to build modern,
 </a>  
 </p>
 
----
+
 
 ## 💻 Technical Skills:
 
@@ -119,7 +118,6 @@ Currently, I am strengthening my backend expertise with Node.js to build modern,
 
 </p>
 
----
 
 ## 📊 GitHub Activity:
 
